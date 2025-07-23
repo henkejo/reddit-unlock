@@ -30,7 +30,7 @@ Browse privated subreddits during the 2023 blackout.
 
 ## Install
 
-Available on the [Chrome Web Store]([https://chrome.google.com/webstore/detail/reddit-unlock/](http://chromewebstore.google.com/detail/reddit-unlock/hikegckdhlaoabcbnicdkfnpokphkaoo))
+Available on the [Chrome Web Store]([https://chrome.google.com/webstore/detail/reddit-unlock/](http://chromewebstore.google.com/detail/reddit-unlock/hikegckdhlaoabcbnicdkfnpokphkaoo)
 
 ---
 
